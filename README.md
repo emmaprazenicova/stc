@@ -1,2 +1,3 @@
-# ms-learn-a-github
-Verejné repo v rámci programu ŠTC 2021 o githube a MS Learn moduloch
+Emma Praženicová
+Collaborate with others with Markdown and GitHub Pages
+https://docs.microsoft.com/en-us/users/praenicovemma-0741/
